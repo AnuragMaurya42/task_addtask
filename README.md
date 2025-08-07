@@ -1,7 +1,7 @@
 # Task Management App (MERN Stack)
 
 #Image
-<img width="960" height="902" alt="image" src="https://github.com/user-attachments/assets/b1ab6afa-c521-41cb-be51-4a07ccace406" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bd5eb4a1-2fc1-454d-a309-38f3126a1b45" />
 
 
 
