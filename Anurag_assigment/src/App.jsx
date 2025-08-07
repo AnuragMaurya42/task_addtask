@@ -4,7 +4,8 @@ import TaskList from './components/TaskList';
 import './App.css';
 import axios from 'axios';
 
-const API_BASE = 'http://localhost:5000/api/tasks'; // change port if different
+// const API_BASE = 'http://localhost:5000/api/tasks'; // change port if different
+const API_BASE = 'https://task-manager-backend-z8s6.onrender.com'
 
 function App() {
   const [tasks, setTasks] = useState([]);
