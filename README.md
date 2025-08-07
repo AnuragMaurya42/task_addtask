@@ -1,5 +1,9 @@
 # Task Management App (MERN Stack)
 
+#Image
+<img width="1155" height="880" alt="image" src="https://github.com/user-attachments/assets/5d722e03-a842-447f-9f30-d3a34d489c96" />
+
+
 This is a full-stack task management application built using **React.js**, **Node.js**, **Express.js**, and **MongoDB**.
 
 ## 🔧 Project Structure
